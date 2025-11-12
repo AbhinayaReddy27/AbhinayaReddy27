@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AbhinayaReddy27/AbhinayaReddy27/blob/main/banner.png)
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <h1 align="center">Hi, I'm Ignatious Abhinaya Reddy</h1>
 
